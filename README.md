@@ -19,3 +19,4 @@ Atualmente estou realizado a faculdade de analise e desevolvilmento de sistemas 
 Alem disso tenho meus conhecimentos em photoshop e edição de vídeos. 
 
 
+![Snake animation](https://github.com/gustavosp120/gustavosp120/blob/output/github-contribution-grid-snake.svg)
