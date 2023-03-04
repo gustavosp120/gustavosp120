@@ -15,8 +15,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosp120)](https://github.com/gustavosp120?tab=repositories)
 
 🎖️<br>
-Atualmente estou realizado a faculdade de analise e desevolvilmento de sistemas ( estou no meu ultimo ano em 2023 ) e estou fazendo um curso de desenvolvimento de Web.
-Alem disso tenho meus conhecimentos em photoshop e edição de vídeos. 
+Atualmente, estou cursando o último ano da faculdade de análise e desenvolvimento de sistemas, o que tem me proporcionado um conhecimento sólido e amplo sobre programação.
+
+Além disso, estou me especializando em desenvolvimento de web, sinto-me confortável com as linguagens de programação envolvidas.
+
+Outra habilidade que tenho é em edição de imagem e vídeo. Sinto que essas habilidades me permitem criar conteúdo mais atrativo e diferenciado para projetos pessoais e profissionais.
+
+Estou comprometido em continuar me atualizando e desenvolvendo minhas habilidades, buscando sempre me manter atualizado com as últimas tecnologias e tendências em TI.
 
 
 ![Snake animation](https://github.com/gustavosp120/gustavosp120/blob/output/github-contribution-grid-snake.svg)
