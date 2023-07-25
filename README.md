@@ -2,7 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-mariano-4a0877210/)
 
-
+<a>
+  
 !![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosp120&show_icons=true&theme=tokyonight)
 
 ### Tecnologias que eu uso no meu dia.
