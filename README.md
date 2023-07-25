@@ -1,5 +1,5 @@
 ### Olá ! Eu sou o Gustavo Mariano ✋
-
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-mariano-4a0877210/)
 
 
@@ -23,5 +23,3 @@ Outra habilidade que tenho é em edição de imagem e vídeo. Sinto que essas ha
 
 Estou comprometido em continuar me atualizando e desenvolvendo minhas habilidades, buscando sempre me manter atualizado com as últimas tecnologias e tendências em TI.
 
-
-![Snake animation](https://github.com/gustavosp120/gustavosp120/blob/output/github-contribution-grid-snake.svg)
