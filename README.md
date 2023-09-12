@@ -13,7 +13,7 @@
 <img aling= "center" alt = "JS" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosp120_icons=true&theme=radical)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosp120_icons=true&bg_color=00000000)
 
 🎖️<br>
 Atualmente, estou cursando o último ano da faculdade de análise e desenvolvimento de sistemas, o que tem me proporcionado um conhecimento sólido e amplo sobre programação.
