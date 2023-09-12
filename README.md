@@ -13,8 +13,7 @@
 <img aling= "center" alt = "JS" src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavosp120)](https://github.com/gustavosp120?tab=repositories)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosp120_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 🎖️<br>
 Atualmente, estou cursando o último ano da faculdade de análise e desenvolvimento de sistemas, o que tem me proporcionado um conhecimento sólido e amplo sobre programação.
