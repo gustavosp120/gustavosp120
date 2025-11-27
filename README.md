@@ -4,8 +4,6 @@
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosp120&show_icons=true&theme=tokyonight)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavosp120_icons=true&bg_color=00000000)
-
 🎖️<br>
 Atualmente, estou cursando o último ano da faculdade de análise e desenvolvimento de sistemas, o que tem me proporcionado um conhecimento sólido e amplo sobre programação.
 
